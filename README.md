@@ -9,6 +9,7 @@ This project helps teams migrate from Bootstrap 3 to Bootstrap 5 incrementally b
 ## 📦 What's Included
 
 - `bootstrap5-utilities.css` - Complete set of Bootstrap 5 utility classes safe for use with Bootstrap 3
+- `bootstrap5-utilities.min.css` - Minified version for production use
 - `README.md` - This documentation file
 
 ## ✨ Key Features
@@ -80,7 +81,7 @@ Add the utility file to your HTML after Bootstrap 3:
 <link href="path/to/bootstrap-3/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Bootstrap 5 Utilities -->
-<link href="path/to/bootstrap5-utilities.css" rel="stylesheet">
+<link href="path/to/bootstrap5-utilities.min.css" rel="stylesheet">
 ```
 
 ### 2. Start Using Modern Utilities
